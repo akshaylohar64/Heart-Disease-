@@ -19,7 +19,7 @@ st.set_page_config(
 st.title("Heart Disease Prediction App")
 st.caption("Enter patient details and predict heart disease risk.")
 
-API_URL = "http://localhost:8000/predict"
+API_URL = API_URL = "http://localhost:8000/predict"
 
 
 # -----------------------------
