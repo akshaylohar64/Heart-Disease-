@@ -19,7 +19,7 @@ st.set_page_config(
 st.title("Heart Disease Prediction App")
 st.caption("Enter patient details and predict heart disease risk.")
 
-API_URL = "https://heart-disease-backend-76ni.onrender.com"
+API_URL = "https://heart-disease-backend-76ni.onrender.com/predict"
 
 
 # -----------------------------
